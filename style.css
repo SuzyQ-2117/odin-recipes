@@ -1,0 +1,17 @@
+* {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: slategray;
+}
+
+a:visited, a:link, a:active {
+    color: gray;
+}
+
+ul {
+    list-style: none;
+}

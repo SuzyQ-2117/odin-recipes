@@ -1,0 +1,28 @@
+* {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: slategray;
+}
+
+a:visited, a:link, a:active {
+    color: gray;
+}
+
+.description {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+ul {
+    list-style: none;
+}
+
+ol {
+    list-style-position: inside;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+}
